@@ -1,0 +1,9 @@
+{
+  "path": "C:\\Movies",
+  "noTranscode": true,
+  "deviceIcon": "icon.png",
+  "deviceIconSizes": [
+    "48:512",
+    "128:512"
+  ]
+}
